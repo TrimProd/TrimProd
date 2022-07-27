@@ -21,6 +21,8 @@ Hello, I'm TrimProd a French developer working mainly as a freelancer or for big
 <br />
 <br />
 
+## Last creations
+
 <table>
 <tr>
 <td>
@@ -33,11 +35,13 @@ Area capture system for Garry's Mod (StarWars style)
 </tr>
 </table>
 
-<br />
-<br />
-
 ## Github Stat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrimProd&show_icons=true&hide_border=false&title_color=bb0b0b&icon_color=FFE500&bg_color=202020&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+## How to reach me
+
+- Discord : https://discord.gg/GwUQTS8MZn
+- Mail : contact@elexia-servers.fr (Please put in subject: TrimProd - Contact)
 
 [discord]: https://discord.gg/GwUQTS8MZn
