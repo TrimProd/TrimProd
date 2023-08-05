@@ -41,7 +41,7 @@ Area capture system for Garry's Mod (StarWars style)
 
 ## How to reach me
 
-- Discord : https://discord.gg/GwUQTS8MZn
-- Mail : contact@elexia-servers.fr (Please put in subject: TrimProd - Contact)
+- Discord : https://discord.gg/WM5Wy4k5Yn
+- Mail : contact@trimprod.fr
 
-[discord]: https://discord.gg/GwUQTS8MZn
+[discord]: https://discord.gg/WM5Wy4k5Yn
